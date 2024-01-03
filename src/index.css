@@ -1,13 +1,7 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+@import url('https://fonts.googleapis.com/css2?family=AR+One+Sans:wght@400;500&family=Abril+Fatface&family=Anton&family=Archivo+Narrow&family=Bebas+Neue&family=Courgette&family=Inter&family=Kalam&family=Lato&family=Lilita+One&family=Lobster&family=Permanent+Marker&family=Poppins&family=Roboto&family=Roboto+Condensed&family=Rubik&display=swap');
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+*{
+  padding: 0px;
+  margin: 0px;
+  font-family: 'AR One Sans', sans-serif;
 }
